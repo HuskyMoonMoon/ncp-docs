@@ -54,3 +54,17 @@ Volume Snapshot สามารถสร้างได้จากทั้ง 
 
 ![](../.gitbook/assets/ncp-vol-snapshot-11.png)
 
+## ลบ  Volume Snapshot
+
+1. จากรายการ Snapshots ทำเครื่องหมาย \(/\) หน้า Snapshot ที่ต้องการลบ 
+
+![](../.gitbook/assets/ncp-vol-snapshot-13.png)
+
+2. เลือกปุ่ม Remove ด้านขวาบนของรายการ Snapshots 
+
+![](../.gitbook/assets/ncp-vol-snapshot-14.png)
+
+3. จะปรากฎกล่องโต้ตอบ Confirm Delete Volume Snapshot เลือกปุ่ม Delete เพื่อยืนยันการลบ
+
+![](../.gitbook/assets/ncp-vol-snapshot-15.png)
+
